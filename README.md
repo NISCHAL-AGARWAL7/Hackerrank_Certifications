@@ -4,7 +4,7 @@
 - Rest API (Intermediate) — (https://www.hackerrank.com/certificates/46df2cd02ea0)
 - Problem Solving (Intermediate) — [Certificate link](https://www.hackerrank.com/certificates/your-cert-id)
 - Java (Basic) — [Certificate link](https://www.hackerrank.com/certificates/your-cert-id)
-- SQL (Intermediate) — (https://www.hackerrank.com/certificates/46df2cd02ea0) 
+- SQL (Intermediate) — (https://www.hackerrank.com/certificates/47d1cfcbaec8) 
 - SQL (Basic) — (https://www.hackerrank.com/certificates/46df2cd02ea0) 
 
 # Oracle_Certification
