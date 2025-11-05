@@ -1,7 +1,7 @@
 # Hackerrank_Certifications
 - Software Engineer (Intern) — (https://www.hackerrank.com/certificates/your-cert-id)
-- Rest API (Intermediate) — (https://www.hackerrank.com/certificates/46df2cd02ea0)
-- Problem Solving (Intermediate) — (https://www.hackerrank.com/certificates/your-cert-id)
+- Rest API (Intermediate) — (https://www.hackerrank.com/certificates/2f5700db33ed)
+- Problem Solving (Intermediate) — (https://www.hackerrank.com/certificates/2ef34e89fbff)
 - SQL (Intermediate) — (https://www.hackerrank.com/certificates/47d1cfcbaec8) 
 - SQL (Basic) — (https://www.hackerrank.com/certificates/46df2cd02ea0) 
 
